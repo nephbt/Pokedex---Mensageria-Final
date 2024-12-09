@@ -1,0 +1,17 @@
+cliente\controllers\RegistrarPokemonController.class
+demo\MensageriaFinalApplication.class
+servidor\model\PokemonEncontrado.class
+servidor\service\TreinadorService.class
+servidor\repository\TreinadorRepository.class
+servidor\model\Treinador.class
+cliente\controllers\CadastrarTreinadorController.class
+servidor\service\PokemonService.class
+cliente\controllers\RegistrarStatusCapturaController.class
+servidor\repository\StatusCapturaRepository.class
+servidor\model\StatusCaptura.class
+servidor\service\StatusCapturaService.class
+cliente\controllers\TelaInicialController.class
+cliente\ClienteApp.class
+servidor\conexao\RabbitMQConfig.class
+servidor\conexao\ConnectionFactory.class
+servidor\repository\PokemonEncontradoRepository.class
