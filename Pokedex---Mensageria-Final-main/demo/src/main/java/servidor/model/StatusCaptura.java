@@ -12,6 +12,7 @@ public class StatusCaptura {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+
     @OneToOne                                           // se atentar ao nome da
     @JoinColumn(name = "pokemon_id", nullable = false) //chave estrangeira definida
     private PokemonEncontrado pokemon;
@@ -23,6 +24,6 @@ public class StatusCaptura {
     private String status; // capturado ou fugiu
     private String localizacao;
 
-    public StatusCaptura(long id, PokemonEncontrado pokemon, Treinador treinador, String status, String localizacao) {
+    public StatusCaptura() {
     }
 }

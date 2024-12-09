@@ -3,7 +3,9 @@ package cliente.controllers;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import cliente.ClienteApp;
+import org.springframework.stereotype.Controller;
 
+@Controller
 public class TelaInicialController {
 
     @FXML
