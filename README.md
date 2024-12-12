@@ -15,8 +15,10 @@ Tecnologias Utilizadas
 	•	JDBC: Acesso ao banco de dados.
 	•	Maven: Gerenciamento de dependências.
 
-Configuração do Ambiente
-	1.	Pré-requisitos:
+
+Pré-requisitos:
 	•	Java 17.
 	•	Maven.
 	•	PostgreSQL configurado com a seguinte tabela:
+
+Rodar código em cliente/ClienteApp
