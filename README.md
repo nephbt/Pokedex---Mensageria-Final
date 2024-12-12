@@ -17,6 +17,6 @@ Tecnologias Utilizadas
 
 Configuração do Ambiente
 	1.	Pré-requisitos:
-	•	Java 17 ou superior.
+	•	Java 17.
 	•	Maven.
 	•	PostgreSQL configurado com a seguinte tabela:
